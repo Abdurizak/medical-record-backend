@@ -1,0 +1,12 @@
+
+../frontend/
+
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+.vscode/
+.idea/
+
+*.DS_Store
